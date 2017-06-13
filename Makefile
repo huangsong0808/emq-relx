@@ -13,7 +13,7 @@ DEPS += emqttd emq_modules emq_dashboard emq_retainer emq_recon emq_reloader \
         emq_lua_hook emq_elixir_plugin
 
 # emq deps
-dep_emqttd        = git https://github.com/emqtt/emqttd master
+dep_emqttd        = git https://github.com/huangsong0808/emqttd hs-latest
 dep_emq_modules   = git https://github.com/emqtt/emq-modules master
 dep_emq_dashboard = git https://github.com/emqtt/emq-dashboard master
 dep_emq_retainer  = git https://github.com/emqtt/emq-retainer master
